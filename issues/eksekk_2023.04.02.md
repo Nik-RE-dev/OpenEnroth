@@ -5,10 +5,10 @@
  
 **Minor**
 
-- [???] When cycling through characters during party creation, "choose me" lines don't stop playing when you choose other char
+- [Can be fixed with OpenEnroth#627] When cycling through characters during party creation, "choose me" lines don't stop playing when you choose other char
 - [New issue: OpenEnroth#624] idk how it is in vanilla, but holding down "backspace" to erase file name during saving doesn't work, it should the above is a problem with all keys, including spacebar (which is shown in video)
 - [???] emerald island healer's wells restore hp/sp even when it is full
-- [???] I sometimes got "nobody is in condition..." message when looting enemies, apparently it's caused by trying to loot flying enemies, when corpse is in air (didn't reach ground yet) EDIT: happens even with nonflying enemies, for example temple of the moon spiders
+- [??? Happens when all characters are recovering, need chack vanilla] I sometimes got "nobody is in condition..." message when looting enemies, apparently it's caused by trying to loot flying enemies, when corpse is in air (didn't reach ground yet) EDIT: happens even with nonflying enemies, for example temple of the moon spiders
 - [New issue: OpenEnroth#626] selection of save (when loading or saving) was retained in vanilla between different openings of menu (even across new games), while in OE first save is selected every time
 - [???] I had a weird situation where when looting temple of the moon spider's chest, additional chain armor appeared upon picking up gold pile (first item picked), can't replicate it after loading save
 - [???] Sal Sharktooth in TotM doesn't get hostile when refusing to give hat, only green swordsman does (possible it's vanilla bug)
@@ -17,13 +17,13 @@
  
 **Minor minor**
 
-- [??? Confirmed] Skill names during party creation are not centered
+- [New issue: OpenEnroth#631] Skill names during party creation are not centered
 - [New issue: OpenEnroth#625] all characters get club at the start, in vanilla it was like that only in mm6
 - [Vanilla bug, plus it is in LOD not executable] emerald island anvil is labelled "button"
 - [New issue: OpenEnroth#622] no sound when clicking "stats", "skills" etc. in character screen, and "save game" confirm
 - [??? Confirmed] there is no icon for exe file :/
-- [???] when a character is dead (can't act) and you try to select him with keyboard nothing happens, in vanilla selection cycled among conscious characters
+- [??? Need check with vanilla] when a character is dead (can't act) and you try to select him with keyboard nothing happens, in vanilla selection cycled among conscious characters
 - [Issue already exist: OpenEnroth#581] when healing in house by pressing 1, then heal, then 2 and heal etc. as fast as possible, "gold paid" sound is not always played, same happens with gold piles in chests
-- [???] I vaguely recall (may be wrong) that emerald island healer wanted 10 gold even for curing death (now it's 50)
+- [??? Need check with vanilla] I vaguely recall (may be wrong) that emerald island healer wanted 10 gold even for curing death (now it's 50)
 - [New issue: OpenEnroth#623] "stat increased" sound in addition to gold sound is played when learning skill in shops (in vanilla only gold sound played)
 - [Not confirmed, vanilla have just peasant there] on emerald island, there is no hireable npc on boat (in vanilla there is one)
