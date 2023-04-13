@@ -13,7 +13,7 @@
 - [???] I had a weird situation where when looting temple of the moon spider's chest, additional chain armor appeared upon picking up gold pile (first item picked), can't replicate it after loading save
 - [???] Sal Sharktooth in TotM doesn't get hostile when refusing to give hat, only green swordsman does (possible it's vanilla bug)
 - [??? Vanilla always play 4 movies] when launching the game, all four movies always play, while in vanilla that was only on first launch, after only lore/sci-fi introductory one played there seems to be some issue with timers.
-- [???] In vanilla, when you clicked emerald island gold well (and had enough luck) below 1k gold, you got 1k gold. If some time passed (for example training) and you got below 1k and clicked again, you'd get another 1k gold. This way you could get gold from well 3 times. In OE, only first time works.
+- [New issue: OpenEnroth#674] In vanilla, when you clicked emerald island gold well (and had enough luck) below 1k gold, you got 1k gold. If some time passed (for example training) and you got below 1k and clicked again, you'd get another 1k gold. This way you could get gold from well 3 times. In OE, only first time works.
  
 **Minor minor**
 
