@@ -23,7 +23,7 @@
 - ~~[New issue: OpenEnroth#622] no sound when clicking "stats", "skills" etc. in character screen, and "save game" confirm~~
 - [New issue: OpenEnroth#643] there is no icon for exe file :/
 - [New issue: OpenEnroth#644] when a character is dead (can't act) and you try to select him with keyboard nothing happens, in vanilla selection cycled among conscious characters
-- [Issue already exist: OpenEnroth#581] when healing in house by pressing 1, then heal, then 2 and heal etc. as fast as possible, "gold paid" sound is not always played, same happens with gold piles in chests
+- ~~[Issue already exist: OpenEnroth#581] when healing in house by pressing 1, then heal, then 2 and heal etc. as fast as possible, "gold paid" sound is not always played, same happens with gold piles in chests~~
 - [Not confirmed, in vanilla also take 50 gold for dead characters] I vaguely recall (may be wrong) that emerald island healer wanted 10 gold even for curing death (now it's 50)
 - ~~[New issue: OpenEnroth#623] "stat increased" sound in addition to gold sound is played when learning skill in shops (in vanilla only gold sound played)~~
 - [Not confirmed, vanilla have just peasant there] on emerald island, there is no hireable npc on boat (in vanilla there is one)
