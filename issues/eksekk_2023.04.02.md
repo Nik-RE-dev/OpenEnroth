@@ -19,7 +19,7 @@
 
 - [New issue: OpenEnroth#631] Skill names during party creation are not centered
 - ~~[New issue: OpenEnroth#625] all characters get club at the start, in vanilla it was like that only in mm6~~
-- [Vanilla bug, plus it is in LOD not executable] emerald island anvil is labelled "button"
+- [Documented in OpenEnroth#673] emerald island anvil is labelled "button"
 - ~~[New issue: OpenEnroth#622] no sound when clicking "stats", "skills" etc. in character screen, and "save game" confirm~~
 - [New issue: OpenEnroth#643] there is no icon for exe file :/
 - [New issue: OpenEnroth#644] when a character is dead (can't act) and you try to select him with keyboard nothing happens, in vanilla selection cycled among conscious characters
