@@ -1,3 +1,18 @@
+**Video**
+- button jumping
+- character inventory full, error sound plays but it shouldn't
+- holding down space doesn't work
+- items dropped in chests don't auto-align
+- minimap disappearing while entering dungeon
+- no door sound
+- no firebolt sound
+- too small slope required for sliding down
+
+**Screenshots**
+- character dying at 0 hp
+- ground texture glitch
+- weird buff colors
+
 **Major**
 
 - [???] Couldn't run x64 build (on 64-bit windows), x32 worked fine without any changes other than running cmake config for 32-bit and selecting "run" in visual studio
