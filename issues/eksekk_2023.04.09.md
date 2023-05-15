@@ -1,3 +1,15 @@
+**Video**
+- [need another blade, friend] in magic shop
+- fireball in some  harmondale forts explodes instantly, killing party
+- i got stuck here, fortunately it's possible to unstuck
+- no character status message when mousing over during gameplay
+- weird guild join sound
+
+**Screenshot**
+- 'green grass' in winter
+- more ground texture bugs 1
+- more ground texture bugs 2
+
 **Major**
 - [???] it seems that torch light doesn't work outdoors EDIT: nevermind, it triggers at exact time, which should nonetheless probably be changed to earlier
 - [???] It's impossible to "climb hills". While that may be intended, it changes gameplay significantly so goes into this section
